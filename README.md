@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itschikki
+- 👋 Hi, I’m @itstripti
 - 👀 I’m interested in Development.
 - 🌱 I’m currently learning DS & Algo in Java.
 - 💞️ I’m looking to collaborate on development projects.
